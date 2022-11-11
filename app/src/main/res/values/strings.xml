@@ -1,0 +1,174 @@
+<resources>
+    <string name="app_name">Krilia</string>
+
+    <string name="content_description">image</string>
+    <string name="title_login">Sign in</string>
+    <string name="et_hint_email">Email</string>
+    <string name="email2">Email: </string>
+    <string name="et_hint_password">Password</string>
+    <string name="lbl_forgot_password">Forgot Password?</string>
+    <string name="btn_lbl_login">Log in</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="register"><u>Register</u></string>
+
+
+    <string name="create_account">CREATE AN ACCOUNT</string>
+    <string name="hint_first_name">Name</string>
+    <string name="location">Address</string>
+    <string name="location2">Address: </string>
+    <string name="phone">Phone Number</string>
+    <string name="phone2">Phone Number: </string>
+    <string name="country">Country</string>
+    <string name="country2">Country: </string>
+    <string name="et_hint_confirm_password">Confirm Password</string>
+
+    <string name="I_agree_to_terms_and_condition">I Agree To The <u>Terms &amp; Condition</u></string>
+    <string name="btn_lbl_register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login"><u>Sign in</u></string>
+
+
+    <string name="err_msg_enter_name">Please enter the name.</string>
+    <string name="err_msg_enter_email">Please enter email.</string>
+    <string name="err_msg_enter_phone">Please enter the phone number.</string>
+    <string name="err_msg_enter_country">Please enter the country.</string>
+    <string name="err_msg_enter_location">Please enter the address.</string>
+    <string name="err_msg_enter_password">Please enter password.</string>
+    <string name="err_msg_confirm_password">Please enter password confirmation.</string>
+    <string name="err_msg_password_and_confirmation_mismatch">Password and it\'s confirmation mismatch.</string>
+    <string name="err_msg_agree_terms">Please agree to terms and condition.</string>
+    <string name="registery_successful">You are registered successfully</string>
+    <string name="login_successful">You are logged in successfully</string>
+
+    <string name="please_wait">Please wait&#8230;</string>
+
+
+    <string name="title_forgot_password">FORGOT PASSWORD?</string>
+    <string name="forgot_password_title_description">Enter your e-mail address we\'ll send you a email to reset your password</string>
+    <string name="btn_lbl_submit">Submit</string>
+
+
+    <string name="email_sent_success">\"Email sent successfully to reset your password check your Gmail Inbox</string>
+    <string name="register_success">You are registered successfully</string>
+
+    <string name="title_complete_profile">Profile</string>
+    <string name="btn_label_save">Save</string>
+    <string name="title_activity_dashboard">MainActivity</string>
+    <string name="title_products">Products</string>
+    <string name="title_dashboard">Home</string>
+    <string name="title_messages">Messages</string>
+    <string name="title_profile">Profile</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_addProduct">Add Product</string>
+    <string name="action_likedProducts">Liked Products</string>
+    <string name="action_savedProducts">Saved Products</string>
+    <string name="action_aboutUs">About us</string>
+    <string name="action_logout">Logout</string>
+
+    <string name="please_click_back_again_to_exit">Please click back again to exit</string>
+
+
+    <string name="most_favourited_products">Most Popular</string>
+    <string name="last_added_products">Last Added</string>
+    <string name="categories">Categories</string>
+
+    <string name="currency">$</string>
+
+    <string name="no_liked_products">You don\'t have any liked products</string>
+    <string name="no_saved_products">You don\'t have any saved products</string>
+
+
+    <string name="about_us">About Us</string>
+    <string name="about_us_desc">This platform was created as a part of internship</string>
+    <string name="goal">Goal</string>
+    <string name="aboutUs_goal_desc">Provide a place where anyone can post their products. And mix it with some social media features like commenting and liking products, in addition of messaging their owners.</string>
+    <string name="alert">Alert</string>
+    <string name="alert_desc">Don\'t pay anyone with your card without asking him to provide you his ID and without trusting him</string>
+    <string name="alert_desc_red">We are not responsible for any falsification</string>
+    <string name="about_us_team">Our team</string>
+    <string name="about_us_team_name">Zakariae El Hady</string>
+    <string name="about_us_team_job">SOFTWARE ENGINEERING STUDENT</string>
+    <string name="about_us_team_desc">"A STUDENT AT THE NATIONAL SCHOOL OF APPLIED SCIENCE IN KENITRA MOROCCO"</string>
+    <string name="tip">Tip</string>
+
+    <string-array name="categories_list">
+        <item>Apparel / Fashion Accessories</item>
+        <item>Vehicles &amp; Accessories</item>
+        <item>Electronics</item>
+        <item>Sports &amp; Entertainment</item>
+        <item>Home &amp; Garden / Furniture</item>
+        <item>Beauty &amp; Personal Care / Health &amp; Medical</item>
+        <item>Construction &amp; Real Estate</item>
+        <item>Electrical Equipment &amp; Supplies</item>
+        <item>Luggage, Bags &amp; Cases</item>
+        <item>Packaging &amp; Printing</item>
+        <item>Agriculture</item>
+        <item>Energy / Environment</item>
+    </string-array>
+    <string-array name="categories_list2">
+        <item>All</item>
+        <item>Apparel / Fashion Accessories</item>
+        <item>Vehicles &amp; Accessories</item>
+        <item>Electronics</item>
+        <item>Sports &amp; Entertainment</item>
+        <item>Home &amp; Garden / Furniture</item>
+        <item>Beauty &amp; Personal Care / Health &amp; Medical</item>
+        <item>Construction &amp; Real Estate</item>
+        <item>Electrical Equipment &amp; Supplies</item>
+        <item>Luggage, Bags &amp; Cases</item>
+        <item>Packaging &amp; Printing</item>
+        <item>Agriculture</item>
+        <item>Energy / Environment</item>
+    </string-array>
+
+    <string name="add_product">Add a product</string>
+    <string name="pick_images">Pick Images</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string name="category">Category</string>
+    <string name="submit">Submit</string>
+    <string name="edit_product">Edit product</string>
+    <string name="update">Update</string>
+
+    <string name="comments">&#160; Comments)</string>
+    <string name="likes">&#160; Likes</string>
+    <string name="status">Status: </string>
+    <string name="category2">Category: </string>
+    <string name="saved">Saved</string>
+    <string name="contact_owner">Contact Owner</string>
+    <string name="share_on">Share On: </string>
+    <string name="availability">Availability: </string>
+    <string name="edit">edit</string>
+    <string name="delete">delete</string>
+    <string name="propositions">--- You May Also Like ---</string>
+
+    <string name="no_comments">There is no comments in this product</string>
+    <string name="write_comment">Write a comment</string>
+
+    <string name="edit_profile">Edit Profile</string>
+    <string name="popular">Popular</string>
+    <string name="less_price">Less Price</string>
+    <string name="last_added">Last Added</string>
+
+    <string name="saved_products">Saved Products</string>
+    <string name="liked_products">Liked Products</string>
+
+    <string name="no_messages">There is no messages in this conversation</string>
+    <string name="write_message">Write a message</string>
+
+    <string name="prices">Prices</string>
+    <string name="all_pices">All Prices</string>
+    <string name="first_price">$0 - $250</string>
+    <string name="second_price">$250 - $500</string>
+    <string name="third_price">$500 - $750</string>
+    <string name="fourth_price">$750 - $1000</string>
+    <string name="more_price"><![CDATA[> $1000]]></string>
+    <string name="status2">Status</string>
+    <string name="all">All</string>
+    <string name="available">Available</string>
+    <string name="not_available">Not Available</string>
+    <string name="apply">Apply</string>
+
+    <string name="error_occured">Some Error Occurred</string>
+</resources>
